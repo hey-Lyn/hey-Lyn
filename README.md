@@ -1,0 +1,9 @@
+- EN and PT-BR
+- Lyn
+- He/Him
+- Brazil, RJ
+- Professionally inexperient Python programmer
+- Very fast learner, can learn anything in less than a week
+- Looking for a job related to Python
+- My email is: thaaysouza0101@gmail.com
+- My discord is: heylynfr
