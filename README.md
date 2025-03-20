@@ -4,6 +4,6 @@
 - Brazil, RJ
 - Professionally inexperient Python programmer
 - Very fast learner, can learn anything in less than a week
-- Looking for a job related to Python
+- Looking for a job related to Coding
 - My email is: thaaysouza0101@gmail.com
 - My discord is: heylynfr
