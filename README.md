@@ -2,11 +2,7 @@
 - Lyn
 - He/Him
 - Brazil, RJ
-- Python programmer
+- Python, JS, TS, HTML & CSS
 - Knows how to work with LLM related projects
-- Backend
-- Some knowledge of CSS and HTML
+- Fullstack
 - Flexible knowledge
-- Looking for a job related to Coding
-- My email is: thaaysouza0101@gmail.com
-- My discord is: 20mominutes
