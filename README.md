@@ -3,6 +3,5 @@
 - He/Him
 - Brazil, RJ
 - Python, JS, TS, HTML & CSS
-- Knows how to work with LLM related projects
 - Fullstack
 - Flexible knowledge
